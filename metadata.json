@@ -1,0 +1,8 @@
+{
+  "name": "Sleek",
+  "description": "A high-performance social media web application featuring infinite vertical scroll, AI-powered recommendations, and glassmorphic UI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
